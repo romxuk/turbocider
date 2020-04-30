@@ -1,0 +1,30 @@
+[
+    {
+        "url": "http://turbocider.com/cider.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "turbo cider"
+    },
+
+ {
+        "url": "http://turbocider.com/howto.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "How too Guides"
+    },
+
+ {
+        "url": "http://turbocider.com/Documentaries.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Documentaries"
+    },
+
+ {
+        "url": "http://turbocider.com/about.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "About Us"
+    }
+
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "url": "http://turbocider.com/DragonballSuper.m3u", 
+        "logos": "", 
+        "image": "https://www.pinclipart.com/picdir/middle/114-1141160_svg-free-stock-collection-of-dragon-ball-high.png", 
+        "name": "Dragonball Super"
+    }, 
+    {
+        "url": "http://turbocider.com/FairyTail.m3u", 
+        "logos": "http://turbocider.com/logos/", 
+        "image": "https://seeklogo.com/images/F/fairy-tail-logo-57C9593DAD-seeklogo.com.png", 
+        "name": "Fairy Tail"
+    }, 
+    {
+        "url": "http://turbocider.com/Futurama.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Futurama"
+    }, 
+    {
+        "url": "http://turbocider.com/ouran.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Ouran High Host Club"
+    }, 
+    {
+        "url": "http://turbocider.com/deathnote.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Deathnote"
+    }, 
+    {
+        "url": "http://turbocider.com/kenichi.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Kenichi"
+    }, 
+    {
+        "url": "http://turbocider.com/peppa.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Peppa Pig"
+    }
+
+]
